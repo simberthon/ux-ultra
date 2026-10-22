@@ -1,0 +1,17 @@
+{
+  "name": "ux-ultra",
+  "owner": {
+    "name": "Simon Berthon"
+  },
+  "metadata": {
+    "description": "UX Ultra: the UX rulebook your AI coding agent follows.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ux-ultra",
+      "source": "./",
+      "description": "The UX rulebook your AI coding agent follows."
+    }
+  ]
+}

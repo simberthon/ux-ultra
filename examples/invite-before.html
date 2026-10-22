@@ -1,0 +1,12 @@
+<html><body>
+<div class="tabs"><div onclick="go('general')">General</div><div onclick="go('billing')">Billing</div><div onclick="go('members')">Members</div></div>
+<h2>Members</h2>
+<input id="email" placeholder="Email" style="outline:none">
+<select id="role"><option></option><option>Admin</option><option>Member</option></select>
+<button disabled id="s">Submit</button> <button>Cancel</button> <button>Reset</button>
+<table id="list"><tr><td>No data</td></tr></table>
+<script>
+email.oninput=()=>{s.disabled=!/^[^@]+@[^@]+\.[a-z]+$/.test(email.value); if(s.disabled) alert('Invalid email')}
+s.onclick=async()=>{try{await fetch('/api/invite',{method:'POST'})}catch(e){email.value='';alert('Something went wrong')}}
+function remove(id){ if(confirm('Are you sure?')) fetch('/api/members/'+id,{method:'DELETE'}) }
+</script></body></html>

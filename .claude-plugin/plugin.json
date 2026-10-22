@@ -1,0 +1,10 @@
+{
+  "name": "ux-ultra",
+  "version": "1.0.0",
+  "description": "The UX rulebook your AI coding agent follows. Laws of UX, SaaS flow playbooks, accessibility, microcopy and a scored pre-ship review, applied every time Claude builds or changes a screen.",
+  "author": { "name": "Simon Berthon" },
+  "homepage": "https://github.com/simberthon/ux-ultra",
+  "repository": "https://github.com/simberthon/ux-ultra",
+  "license": "MIT",
+  "keywords": ["ux", "ui", "saas", "design", "accessibility", "usability", "claude-code", "skill"]
+}
