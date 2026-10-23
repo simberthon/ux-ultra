@@ -14,6 +14,8 @@ Install it in Claude Code:
 /plugin install ux-ultra@ux-ultra
 ```
 
+Then run `/ux-brief` on the next screen you build.
+
 <p align="center">
   <a href="#laws"><b>See the 30 laws</b></a> &nbsp;·&nbsp; <a href="#proof">Proof</a> &nbsp;·&nbsp; <a href="#install">Other ways to install</a> &nbsp;·&nbsp; <a href="#faq">FAQ</a>
 </p>
@@ -43,15 +45,15 @@ None of that is a bug your tests will catch. It is a brief nobody wrote. Designe
 
 Nobody emails you to say your form was confusing. They close the tab. Here is what the research measures.
 
-| Figure | What it measures | Source |
-|---|---|---|
-| **70.19%** | Online carts that are abandoned | [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
-| **17%** | Shoppers who abandon because the checkout is too long or too complicated. That is a UX problem, and it is fixable. | [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
-| **12 vs 23.48** | Form elements in an ideal checkout, against the average US checkout. Half the fields, same sale. | [Baymard Institute](https://baymard.com/blog/checkout-flow-ux-optimization) |
-| **+22% / -42%** | Inline validation on blur, against none: 22% more successful completions, 22% fewer errors, 31% higher satisfaction, 42% less time to finish | [Luke Wroblewski, A List Apart, 2009](https://alistapart.com/article/inline-validation-in-web-forms/) |
-| **25%** | Median SaaS activation rate. Three out of four signups never reach the moment your product pays off. | [Lenny's Newsletter survey](https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate) |
-| **72% vs 16%** | People who finish a 3-step product tour, against a 7-step one | [Chameleon](https://www.chameleon.io/blog/user-onboarding-best-practices) (vendor data, directional) |
-| **400 ms** | Under this per interaction, productivity soars | [Doherty and Thadani, IBM, 1982](https://lawsofux.com/doherty-threshold/) |
+| Figure | What it measures |
+|---|---|
+| **70.19%** | Online carts that are abandoned. Source: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
+| **17%** | Shoppers who abandon because the checkout is too long or too complicated. That is a UX problem, and it is fixable. Source: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
+| **12 vs 23.48** | Form elements in an ideal checkout, against the average US checkout. Half the fields, same sale. Source: [Baymard Institute](https://baymard.com/blog/checkout-flow-ux-optimization) |
+| **+22% / -42%** | Inline validation on blur, against none: 22% more successful completions, 22% fewer errors, 31% higher satisfaction, 42% less time to finish. Source: [Luke Wroblewski, A List Apart, 2009](https://alistapart.com/article/inline-validation-in-web-forms/) |
+| **25%** | Median SaaS activation rate. Three out of four signups never reach the moment your product pays off. Source: [Lenny's Newsletter survey](https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate) |
+| **72% vs 16%** | People who finish a 3-step product tour, against a 7-step one. Source: [Chameleon](https://www.chameleon.io/blog/user-onboarding-best-practices) (vendor data, directional) |
+| **400 ms** | Under this per interaction, productivity soars. Source: [Doherty and Thadani, IBM, 1982](https://lawsofux.com/doherty-threshold/) |
 
 Retention is built screen by screen. UX Ultra makes your agent get each one right the first time, so you stop paying for the same mistakes in churn.
 
@@ -551,6 +553,8 @@ Install it once. Every screen after that starts from 30 laws instead of a guess.
 /plugin marketplace add simberthon/ux-ultra
 /plugin install ux-ultra@ux-ultra
 ```
+
+Then run `/ux-brief` on the next screen you build.
 
 ## Credits and license
 
