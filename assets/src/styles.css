@@ -243,8 +243,8 @@ em.s{font-family:var(--serif);font-style:italic;font-weight:400;letter-spacing:-
 .stack .card.b{left:0;top:0;transform:rotate(-3deg)}
 .stack .card.a{right:0;bottom:0;transform:rotate(2deg)}
 .stack .pin{display:none}
-.u-h.pp,.u-t.pp{padding-right:20px}
-.u-h.pp > .pin,.u-t.pp > .pin{top:-10px;right:-6px}
+.u-h.pp,.u-t.pp,.u-lbl.pp{padding-right:20px}
+.u-h.pp > .pin,.u-t.pp > .pin,.u-lbl.pp > .pin{top:-10px;right:-6px}
 .u-btn > .pin{top:-11px;right:-11px}
 .u-row.pp > .pin:first-child,.u-grid3.pp > .pin:first-child,.u-time.pp > .pin:first-child{right:auto;left:-8px}
 .stack .ui{font-size:13px;gap:6px;padding:16px}
