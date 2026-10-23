@@ -1,6 +1,6 @@
 // The 30 laws as the README shows them. Names and order follow
 // skills/ux-ultra/references/laws.md; the plain line, the scenes and the
-// business effect come from the landing copy (LUN-9407, copy.md rev 1).
+// business effect come from the landing copy.
 // "before" and "after" are small HTML mocks of the same screen, drawn with the
 // .ui primitives in styles.css and rendered to PNG by render.mjs.
 // Pins (<b class="pin">n</b>) sit inside a .pp element and match the notes.

@@ -49,11 +49,10 @@ Nobody emails you to say your form was confusing. They close the tab. Here is wh
 |---|---|
 | **70.19%** | Online carts that are abandoned. Source: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
 | **17%** | Shoppers who abandon because the checkout is too long or too complicated. That is a UX problem, and it is fixable. Source: [Baymard Institute](https://baymard.com/lists/cart-abandonment-rate) |
-| **12 vs 23.48** | Form elements in an ideal checkout, against the average US checkout. Half the fields, same sale. Source: [Baymard Institute](https://baymard.com/blog/checkout-flow-ux-optimization) |
+| **12 vs 23.48** | Form elements in an ideal checkout, against the average US checkout. Nearly twice the fields an ideal checkout needs. Source: [Baymard Institute](https://baymard.com/blog/checkout-flow-ux-optimization) |
 | **+22% / -42%** | Inline validation on blur, against none: 22% more successful completions, 22% fewer errors, 31% higher satisfaction, 42% less time to finish. Source: [Luke Wroblewski, A List Apart, 2009](https://alistapart.com/article/inline-validation-in-web-forms/) |
-| **25%** | Median SaaS activation rate. Three out of four signups never reach the moment your product pays off. Source: [Lenny's Newsletter survey](https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate) |
 | **72% vs 16%** | People who finish a 3-step product tour, against a 7-step one. Source: [Chameleon](https://www.chameleon.io/blog/user-onboarding-best-practices) (vendor data, directional) |
-| **400 ms** | Under this per interaction, productivity soars. Source: [Doherty and Thadani, IBM, 1982](https://lawsofux.com/doherty-threshold/) |
+| **25%** | Median SaaS activation rate. Three out of four signups never reach the moment your product pays off. Source: [Lenny's Newsletter survey](https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate) |
 
 Retention is built screen by screen. UX Ultra makes your agent get each one right the first time, so you stop paying for the same mistakes in churn.
 
@@ -114,6 +113,8 @@ In plain words: if nothing moves when you click, you click again or you leave.
 |---|---|---|
 | 1 | No pressed state, no spinner, no change. | The button answers at once, in about 80 ms. |
 | 2 | Two seconds of silence: people click again. | The list updates right away, before the server replies. |
+
+*The research:* under 400 ms per interaction, productivity soars ([Doherty and Thadani, IBM, 1982](https://lawsofux.com/doherty-threshold/)).
 
 *Why it pays:* the app feels fast, and fast apps get used daily.
 
